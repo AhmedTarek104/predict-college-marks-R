@@ -1,1 +1,1 @@
-# predict-college-marks-R
+This project applies multiple linear regression techniques to predict student academic performance using a dataset containing both academic and behavioral attributes. The goal is to identify key predictors of college marks and evaluate model performance using robust statistical methods and visualizations.
